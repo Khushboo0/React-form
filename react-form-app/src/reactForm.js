@@ -16,7 +16,7 @@ function ReactForm(){
         e.preventDefault();
         setSubmittedData(formData);
         setFormData({name:'',email:''});
-        // console.log(formData);
+        
     };
     
 
